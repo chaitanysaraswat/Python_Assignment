@@ -35,6 +35,4 @@ python shop_inventory_manager.py
 - Inventory Logic
 - Basic Business Simulation
 
----
 
-Made with ❤️ by Chaitanya
