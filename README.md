@@ -1,8 +1,8 @@
-# 🛒 Shop Inventory Manager (Python CLI Project)
+#  Shop Inventory Manager (Python CLI Project)
 
 A simple command-line based inventory management system built using Python.
 
-## 📌 Features
+##  Features
 
 - Add New Product
 - Sell Product
@@ -10,14 +10,14 @@ A simple command-line based inventory management system built using Python.
 - View Stock Report
 - Calculates Total Inventory Value
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - Lists
 - Functions
 - Loops
 - Conditional Statements
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository
 2. Open terminal
@@ -27,7 +27,7 @@ A simple command-line based inventory management system built using Python.
 python shop_inventory_manager.py
 ```
 
-## 📊 Concepts Used
+##  Concepts Used
 
 - List Data Structure
 - Function Modularization
